@@ -1,0 +1,18 @@
+{
+	"subreddits": [{
+			"id": "t5_2sbq3",
+			"name": "EarthPorn",
+			"previewImageUrl": "https://i.redd.it/qqgds2i3ueh31.jpg"
+		},
+		{
+			"id": "t5_2scjs",
+			"name": "CityPorn",
+			"previewImageUrl": "https://i.redd.it/1qioj5ec19mz.png"
+		},
+		{
+			"id": "t5_3j516",
+			"name": "Amoledbackgrounds",
+			"previewImageUrl": "https://i.redd.it/n6qtxfuwrp651.png"
+		}
+	]
+}
