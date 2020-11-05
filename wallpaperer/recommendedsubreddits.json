@@ -1,5 +1,6 @@
 {
-	"subreddits": [{
+	"subreddits": [
+		{
 			"id": "t5_2sbq3",
 			"name": "EarthPorn",
 			"previewImageUrl": "https://i.redd.it/qqgds2i3ueh31.jpg"
@@ -13,6 +14,11 @@
 			"id": "t5_3j516",
 			"name": "Amoledbackgrounds",
 			"previewImageUrl": "https://i.redd.it/n6qtxfuwrp651.png"
+		},
+		{	
+			"id": "t5_2raop",
+			"name": "astrophotography",
+			"previewImageUrl": "https://i.redd.it/ma0lz75ogc941.png"
 		}
 	]
 }
